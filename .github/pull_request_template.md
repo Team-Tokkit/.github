@@ -2,4 +2,4 @@
 
 * [기능 구현](?expand=1&template=feature_template.md)
 * [버그 수정](?expand=1&template=bugfix_template.md)
-
+* [Release](?expand=1&template=release_template.md)
